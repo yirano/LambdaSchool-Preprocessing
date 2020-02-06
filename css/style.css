@@ -9,7 +9,7 @@ body {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   max-width: 1024px;
-  padding: 70px 90px;
+  padding: 70px 20px;
   line-height: 1.2em;
   margin: 0 auto;
 }
@@ -101,13 +101,14 @@ header .header-name h4 {
 }
 .container section {
   margin-left: 19px;
+  padding-bottom: 30px;
   line-height: 1.6em;
 }
 .container section .experiences .experience-content h4:first-child {
   margin-top: -10px;
 }
 .container aside {
-  width: 545px;
+  width: 449px;
   margin-top: 19px;
   padding: 20px;
   background-color: #21180508;
