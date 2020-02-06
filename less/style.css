@@ -25,6 +25,7 @@ h4 {
 }
 h1 {
   font-size: 4.2em;
+  letter-spacing: 0em;
   font-family: 'Charmonman', cursive;
 }
 h3 {
@@ -103,6 +104,11 @@ header .header-name h4 {
   margin-left: 19px;
   padding-bottom: 30px;
   line-height: 1.6em;
+}
+@media (max-width: 500px) {
+  .container section {
+    padding: 0 20px;
+  }
 }
 .container section .experiences .experience-content h4:first-child {
   margin-top: -10px;

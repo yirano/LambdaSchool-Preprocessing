@@ -105,6 +105,11 @@ header .header-name h4 {
   padding-bottom: 30px;
   line-height: 1.6em;
 }
+@media (max-width: 500px) {
+  .container section {
+    padding: 0 20px;
+  }
+}
 .container section .experiences .experience-content h4:first-child {
   margin-top: -10px;
 }
