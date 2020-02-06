@@ -79,6 +79,7 @@ header .header-name {
   header .header-name {
     font-size: 0.6rem;
     height: auto;
+    margin-left: 0px;
     padding: 20px 0;
   }
 }
